@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.pokedex-wrapper{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(236, 236, 236);
+    
+}
+.pokedex-heading{
+    letter-spacing: 5px;
+}
